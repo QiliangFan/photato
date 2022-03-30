@@ -6,7 +6,7 @@ github_repo: photato
 github_username: qiliangfan
 theme_color: light
 remote_theme: internet-de-france/athena
-baseurl: /
+baseurl: /photato/
 defaults:
   - scope:
       path: ''
